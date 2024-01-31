@@ -1,0 +1,17 @@
+
+<div class="flex mb-60 bg-grey">
+    <div class="logo">
+        <h1> Music Land </h1>
+    </div>
+    <div class="recherche">
+        <form class="form">
+            <mat-form-field class="form-width">
+                <mat-label>Recherche</mat-label>
+                <input matInput placeholder="Ex. Music" value="">
+            </mat-form-field>
+        </form>
+    </div>
+    <div class="utlisateur">
+        <app-user [auteur]="video?.auteur"></app-user>
+    </div>
+</div>

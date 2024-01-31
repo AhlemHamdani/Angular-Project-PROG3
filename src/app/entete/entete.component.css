@@ -1,0 +1,19 @@
+.logo{
+    width: 25%;
+}
+h1{
+    color: purple;
+    text-align: center;
+}
+.recherche{
+    width: 60%;
+    text-align: center;
+}
+.form-width{
+    margin: 15px 0 0 0;
+    padding: 5%;
+    width: 50%;
+}
+.user{
+    width: 25%;
+}
